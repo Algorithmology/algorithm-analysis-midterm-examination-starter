@@ -59,7 +59,7 @@ def detect_duplicates_int(data) -> bool:
 
 # Function specification:
 # The function detect_duplicates_int should:
-# - Take a list of integers, called data, as its parameter
+# - Take a list of strings, called data, as its parameter
 # - Return a boolean value that indicates whether or not there are duplicate values in the list
 # - If the list is empty, the function should return False to indicate that there are no duplicate values
 
