@@ -13,7 +13,7 @@
   * [Table of Contents](#table-of-contents)
   * [✨ Quick Task List](#-quick-task-list)
   * [🧗 Introduction](#-introduction)
-  * [😁 Note: Student Name](#-note-student-name)
+  * [😁 TODO: Student Name](#-note-student-name)
   * [🚧 Honor Code](#-honor-code)
   * [🌟 Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this examination."](#-re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-examination)
   * [🌐 Examination Overview](#-examination-overview)
@@ -74,13 +74,13 @@ this assessment.
 
 ## 🌟 Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this examination."
 
-Note: You must retype the sentence here in order to digitally sign your pledge.
+TODO: You must retype the sentence here in order to digitally sign your pledge.
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the assessment.
 
-Note: Please list here the sources that you consulted while completing the examination!
+TODO: Please list here the sources that you consulted while completing the examination!
 
 ## 🌐 Examination Overview
 
