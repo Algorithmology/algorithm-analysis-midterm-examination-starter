@@ -1,5 +1,7 @@
 """Pytest configuration for the exam package."""
 
+# Note: Do not modify any part of this file!
+
 import sys
 
 import pytest

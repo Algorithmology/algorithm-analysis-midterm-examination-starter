@@ -1,5 +1,7 @@
 """Confirm the correctness of functions in question_one."""
 
+# Note: Do not modify any part of this file!
+
 import pytest
 
 # ruff: noqa: PLR2004
@@ -71,11 +73,15 @@ def test_find_average_value():
     matrix = [[5, 7, 3], [1, 9, 2], [6, 4, 8]]
     average_positive = find_average_value(matrix)
     # assert average_positive == pytest.approx(5.0), "Average positive value in matrix"
-    assert_and_print(5.0, average_positive, "Average value in matrix with positive numbers")
+    assert_and_print(
+        5.0, average_positive, "Average value in matrix with positive numbers"
+    )
     # check 2: Matrix with negative values
     matrix = [[-2, 5, 1], [-3, 0, 6], [-1, -4, 7]]
     average_negative = find_average_value(matrix)
-    assert_and_print(1.0, average_negative, "Average value in matrix with negative numbers")
+    assert_and_print(
+        1.0, average_negative, "Average value in matrix with negative numbers"
+    )
     # check 3: Matrix with a single element
     matrix = [[10]]
     average_single = find_average_value(matrix)
